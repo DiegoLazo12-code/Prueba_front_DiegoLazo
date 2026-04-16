@@ -1,1 +1,4 @@
-Le puse una estructura a mi pagina de consola de videojuegos
+Le puse una estructura a mi pagina de consola de videojuegos (con un diseño
+muy sensillo al princio)
+
+Agregue las caracteristicas de la consola
